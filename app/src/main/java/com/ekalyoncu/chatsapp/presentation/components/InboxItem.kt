@@ -118,7 +118,7 @@ fun InboxItemPreview(){
         InboxItem(
             image = R.drawable.image_1,
             from = "Deneme",
-            lastMessage = "Merhaba, bu bir mesajdır.sdsdasasdadasdasdasddasdasdadasd",
+            lastMessage = "Merhaba, bu bir mesajdır.",
             timeStamp = "19.23",
             status = Status.Read
         )
